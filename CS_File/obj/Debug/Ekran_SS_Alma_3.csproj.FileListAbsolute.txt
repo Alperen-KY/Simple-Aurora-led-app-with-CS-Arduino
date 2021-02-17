@@ -1,0 +1,10 @@
+C:\Users\KAYA\source\repos\Ekran_SS_Alma_3\Ekran_SS_Alma_3\bin\Debug\Ekran_SS_Alma_3.exe.config
+C:\Users\KAYA\source\repos\Ekran_SS_Alma_3\Ekran_SS_Alma_3\bin\Debug\Ekran_SS_Alma_3.exe
+C:\Users\KAYA\source\repos\Ekran_SS_Alma_3\Ekran_SS_Alma_3\bin\Debug\Ekran_SS_Alma_3.pdb
+C:\Users\KAYA\source\repos\Ekran_SS_Alma_3\Ekran_SS_Alma_3\obj\Debug\Ekran_SS_Alma_3.csprojAssemblyReference.cache
+C:\Users\KAYA\source\repos\Ekran_SS_Alma_3\Ekran_SS_Alma_3\obj\Debug\Ekran_SS_Alma_3.Form1.resources
+C:\Users\KAYA\source\repos\Ekran_SS_Alma_3\Ekran_SS_Alma_3\obj\Debug\Ekran_SS_Alma_3.Properties.Resources.resources
+C:\Users\KAYA\source\repos\Ekran_SS_Alma_3\Ekran_SS_Alma_3\obj\Debug\Ekran_SS_Alma_3.csproj.GenerateResource.cache
+C:\Users\KAYA\source\repos\Ekran_SS_Alma_3\Ekran_SS_Alma_3\obj\Debug\Ekran_SS_Alma_3.csproj.CoreCompileInputs.cache
+C:\Users\KAYA\source\repos\Ekran_SS_Alma_3\Ekran_SS_Alma_3\obj\Debug\Ekran_SS_Alma_3.exe
+C:\Users\KAYA\source\repos\Ekran_SS_Alma_3\Ekran_SS_Alma_3\obj\Debug\Ekran_SS_Alma_3.pdb
